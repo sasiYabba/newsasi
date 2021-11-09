@@ -1,5 +1,5 @@
 
-#!/usr/bin/python
+#!/usr/bin/Sasiya
 # coding=utf-8
 # pashakun.com
 
